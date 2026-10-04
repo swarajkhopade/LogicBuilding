@@ -1,0 +1,83 @@
+/*
+    step 1:     understand the problem statement
+    step 2:     write the algorithm
+    step 3:     decide the programming laguage
+    step 4:     write the program
+    step 5:     test the program
+
+*/
+
+//////////////////////////////////////////////////////////////
+//
+//  step 1: understand the problem statement
+            user is going to enter ant 2 integers
+            and we have to perform the addition
+//
+//////////////////////////////////////////////////////////////
+
+/////////////////////////////////////////////////////////////
+//
+// step 1: write the algorithm
+/*
+    start
+        accept first number as no1
+        accept second number as no2
+        create the variable as ans to store the result
+        perform the addition and store into the ans
+        display the result from ans
+    end
+*/
+
+///////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////
+//
+//  step 3: decide the programming laguage
+//          we select the c programming laguage
+//////////////////////////////////////////////////////////////
+
+/////////////////////////////////////////////////////////////
+//
+//step 4: write the program
+//
+////////////////////////////////////////////////////////////
+
+
+#include<stdio.h>
+
+int main()
+{
+    int i=10,j=11,k=0;
+    k= i+j;             // business logic
+
+    printf("%d\n",k);
+
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
